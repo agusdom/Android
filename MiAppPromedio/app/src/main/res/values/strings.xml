@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MiAppPromedio</string>
+    <string name="txt_view_String">Promedio del Alumno</string>
+    <string name="txt_Matematicas_String">Promedio Matematicas</string>
+    <string name="txt_Quimica_String">Promedio Quimica</string>
+    <string name="txt_Fisica_String">Promedio Fisica</string>
+    <string name="Boton">Promedio Total</string>
+</resources>

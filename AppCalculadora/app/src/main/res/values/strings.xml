@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppCalculadora</string>
+    <string name="txt_Num1">Ingrese primer Valor</string>
+    <string name="txt_Num2">Ingrese segundo Valor</string>
+    <string name="rb1">Sumar</string>
+    <string name="rb2">Restar</string>
+    <string name="rb3">Multiplicar</string>
+    <string name="rb4">Dividir</string>
+    <string name="Button">Calcular</string>
+    <string name="txt_Resultado">Resultado</string>
+</resources>

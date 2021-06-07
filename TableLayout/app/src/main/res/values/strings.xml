@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+
+    <string name="Uno">1</string>
+    <string name="Dos">2</string>
+    <string name="Tres">3</string>
+    <string name="Cuatro">4</string>
+    <string name="Cinco">5</string>
+
+    <string name="Seis">6</string>
+    <string name="Siete">7</string>
+    <string name="Ocho">8</string>
+    <string name="Nueve">9</string>
+    <string name="Cero">0</string>
+
+    <string name="Suma">-</string>
+    <string name="Resta">+</string>
+    <string name="Multiplicacion">*</string>
+    <string name="Division">/</string>
+    <string name="Resultado">=</string>
+
+    <string name="RestaurarValores">Restaurar Valores</string>
+    <string name="Button">0</string>
+</resources>
